@@ -24,7 +24,7 @@ implementation
 
 procedure TForm1.FormCreate(Sender: TObject);
 begin
-  ShowMessage('Hello');
+  //ShowMessage('Hello');
 end;
 
 end.
